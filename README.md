@@ -1,2 +1,2 @@
 # Numpy
-#Numpy arrays,functions and operations
+Numpy arrays,functions and operations
