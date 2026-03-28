@@ -1,2 +1,2 @@
 # Numpy
-Numpy (ND)arrays,functions,operations
+Numpy (ND)arrays,functions,broadcasting
